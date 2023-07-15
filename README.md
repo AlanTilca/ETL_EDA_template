@@ -5,6 +5,8 @@ Pequeña plantilla para organizar un ETL y EDA.
 
 - [Template](https://github.com/AlanTilca/ETL_EDA_template/blob/master/Template_raiz/template.ipynb)
 
+- [Funciones Adicionales](Template_raiz\funciones_adicionales.ipynb)
+
 - [Dataset](https://github.com/AlanTilca/ETL_EDA_template/blob/master/Datasets/coaster_db.csv)
 
 
